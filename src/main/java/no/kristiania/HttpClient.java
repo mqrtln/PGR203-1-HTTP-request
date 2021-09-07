@@ -5,4 +5,8 @@ public class HttpClient {
         //test
         return null;
     }
+
+    public static int return10() {
+        return 10;
+    }
 }
